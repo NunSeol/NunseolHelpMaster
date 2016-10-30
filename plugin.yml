@@ -1,0 +1,11 @@
+﻿name: NunseolHelpMaster
+version: Release
+api: [1.0.0, 2.0.0]
+author: NunSeol
+main: nunseol\NunseolHelpMaster
+website: https://github.com/nunseol
+
+commands:
+  튜토리얼:
+    usage: /튜토리얼
+    description: 튜토리얼 플러그인
