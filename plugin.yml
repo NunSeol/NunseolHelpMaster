@@ -7,5 +7,5 @@ website: https://github.com/nunseol
 
 commands:
   튜토리얼:
-    usage: /튜토리얼
+    usage: /튜토리얼 [ 서버 | 커뮤니티 | 광질 | 상점 | 문의 ]
     description: 튜토리얼 플러그인
